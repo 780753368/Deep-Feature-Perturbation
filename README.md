@@ -2,7 +2,8 @@
 
 This is the Pytorch Diversified-Arbitrary-Style-Transfer-via-Deep-Feature-Perturb.
 based on https://github.com/ChauvinisticJonatha/Implementation-of-the-paper-Diversified-Arbitrary-Style-Transfer-via-Deep-Feature-Perturb.git
-use pytroch==1.12 instead of 0.4
+
+and use pytorch==1.12 instead of 0.4
 
 
 ## Prerequisites
